@@ -1,0 +1,115 @@
+Que tenga: Edad, Peso, Dias de la rutina, ¿Que quieres? Definicion-Aumento_muscular, 
+Que tipo de cuerpo eres? Endomorfos-Ectomorfos-Mesomorfos, Intencidad: Principinate-Intermedio-Avanzado,
+/* .Fondo{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+} */
+        <div class="Listado-edad">
+            <h1>TE DAMOS TU RUTINA</h1>
+            <h2>EDAD</h2>
+
+            <label class="container">13-15
+              <input type="radio" checked="checked" name="radio">
+              <span class="checkmark"></span>
+            </label>
+            <label class="container">16-18
+              <input type="radio" name="radio">
+              <span class="checkmark"></span>
+            </label>
+            <label class="container">19-22
+              <input type="radio" name="radio">
+              <span class="checkmark"></span>
+            </label>
+            <label class="container">23-25
+              <input type="radio" name="radio">
+              <span class="checkmark"></span>
+            </label>
+            <!-- Opcion 1 -->
+
+            <!-- Opcion 2 -->
+            <div class="Listado-edad">
+                <h2>PESO</h2>
+
+            <label class="container">13-15
+                <input type="radio" checked="" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">16-18
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">19-22
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">23-25
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+            <!-- Opcion 2 -->
+
+            <!-- Opcion 3 -->
+            <div class="Listado-edad">
+                <h2>¿QUE QUIERES?</h2>
+
+            <label class="container">13-15
+                <input type="radio" checked="checked" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">16-18
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">19-22
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">23-25
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+            <!-- Opcion 3 -->
+
+            <!-- Opcion 4 -->
+            <div class="Listado-edad">
+                <h2>TIPO DE CUERPO</h2>
+
+            <label class="container">13-15
+                <input type="radio" checked="checked" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">16-18
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">19-22
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">23-25
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+            <!-- Opcion 4 -->
+
+            <!-- Opcion 5 -->
+            <div class="Listado-edad">
+                <h2>INTENSIDAD</h2>
+
+            <label class="container">13-15
+                <input type="radio" checked="checked" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">16-18
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">19-22
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
+              <label class="container">23-25
+                <input type="radio" name="radio">
+                <span class="checkmark"></span>
+              </label>
